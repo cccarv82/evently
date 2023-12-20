@@ -9,7 +9,8 @@
 			"extensions": [
 				"GitHub.copilot-chat",
 				"GitHub.copilot",
-				"esbenp.prettier-vscode"
+				"esbenp.prettier-vscode",
+				"bradlc.vscode-tailwindcss"
 			]
 		}
 	}
